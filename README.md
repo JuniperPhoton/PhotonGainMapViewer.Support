@@ -1,5 +1,7 @@
 ## PhotonGainMapViewer Support
 
+Join the Beta test now: https://testflight.apple.com/join/ChYEeypM
+
 This repository is for support and feedback for the PhotonGainMapViewer app.
 
 Found a bug, have a question, or want to request a feature? Please open a new issue (../../issues/new) — I read every one.
